@@ -1,1 +1,1 @@
-python fed_notifier.py
+worker: python fed_notifier.py
